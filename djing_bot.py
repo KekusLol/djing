@@ -7,7 +7,7 @@ async def start(update: Update, context: CallbackContext):
     # Создаём кнопки
     keyboard = [
         [InlineKeyboardButton("Как всё подключается:", url="https://telegra.ph/Kak-vsyo-podklyuchaetsya-akustika-bez-paniki-04-29")],
-        [InlineKeyboardButton("Тема 2", url="https://example.org")],
+        [InlineKeyboardButton("Микшер без паники:", url="https://telegra.ph/Miksher-bez-paniki-zachem-stolko-razyomov-i-za-chto-otvechayut-polzunki-04-29")],
         [InlineKeyboardButton("Тема 3", url="https://example.net")]
     ]
     
