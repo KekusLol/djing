@@ -6,7 +6,7 @@ TOKEN = "7737694973:AAEnQ_Qkdxl6ROgHvkeh_rC9inelu9eiWT8"
 async def start(update: Update, context: CallbackContext):
     # Создаём кнопки
     keyboard = [
-        [InlineKeyboardButton("Тема 1", url="https://example.com")],
+        [InlineKeyboardButton("Как всё подключается:", url="https://telegra.ph/Kak-vsyo-podklyuchaetsya-akustika-bez-paniki-04-29")],
         [InlineKeyboardButton("Тема 2", url="https://example.org")],
         [InlineKeyboardButton("Тема 3", url="https://example.net")]
     ]
