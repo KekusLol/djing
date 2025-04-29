@@ -8,7 +8,7 @@ async def start(update: Update, context: CallbackContext):
     keyboard = [
         [InlineKeyboardButton("Как всё подключается:", url="https://telegra.ph/Kak-vsyo-podklyuchaetsya-akustika-bez-paniki-04-29")],
         [InlineKeyboardButton("Микшер без паники:", url="https://telegra.ph/Miksher-bez-paniki-zachem-stolko-razyomov-i-za-chto-otvechayut-polzunki-04-29")],
-        [InlineKeyboardButton("Тема 3", url="https://example.net")]
+        [InlineKeyboardButton("Эквалайзер и обработка звука:", url="https://telegra.ph/Pokruti-vot-tut-budet-luchshe-ehkvalajzer-i-obrabotka-zvuka-na-mikshere-bez-boli-04-29")]
     ]
     
     # Создаём разметку с кнопками
